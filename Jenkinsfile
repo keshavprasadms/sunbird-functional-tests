@@ -7,7 +7,7 @@ pipeline {
         sunbird_cassandra_port = "9042"
         sunbird_cassandra_username = "cassandra"
         sunbird_cassandra_keyspace = "sunbird"
-        sunbird_sso_username = "shailesh-admin"
+        sunbird_sso_username = "ntp-staging-new-admin"
         sunbird_sso_password = "${sunbird_sso_passwords}"
         sunbird_sso_realm = "sunbird"
         sunbird_sso_client_id = "admin-cli"
